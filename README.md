@@ -25,17 +25,17 @@ https://www.its.go.kr/opendata/
 https://www.roboflow.com/
 ```
 ### 데이터검증
-자동라벨링 버튼사진 :
+자동라벨링 버튼 :
 ![4](https://github.com/user-attachments/assets/0c3a0d0a-7643-4566-ad50-7c0d7afb04a6)
 
-자동라벨링 과정사진 :
+자동라벨링 과정 :
 ![2](https://github.com/user-attachments/assets/d5c0e756-5b7b-4f9f-a70a-0fc25fb6ad71)
 
-결과사진 :
+결과 :
 ![결과이미지](https://github.com/user-attachments/assets/81a2b7d4-60f2-4842-ad8c-a3c1fd8d2de8)
 
 ### 데이터 전처리
-데이터셋 사진 :
+데이터셋 :
 ![전처리](https://github.com/user-attachments/assets/b47fca84-3a7a-415a-afea-bceb33ee01bd)
 
 비전 제작 :
@@ -45,7 +45,7 @@ https://www.roboflow.com/
 Train : Vaild : Test =  8 : 1 : 1
 ```
 ### 모델 학습 및 튜닝
-모델 코드 사진 :
+모델 코드 :
 ![코드](https://github.com/user-attachments/assets/3f495da8-2da4-4a2d-b114-0d2b4d42c5ab)
 
 훈련 결과 그래프 :
