@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['Bicycle', 'Bus', 'Car', 'Crosswalk', 'Motorcycle', 'Person', 'Traffic light', 'Truck']
+
+roboflow:
+  workspace: joyk-cl8nt
+  project: project-twhf4
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/joyk-cl8nt/project-twhf4/dataset/1
